@@ -60,7 +60,7 @@ Fluxos de uso
 🔹 Criar usuário no BalanceApi
 Antes de processar pagamentos, crie um usuário com saldo inicial:
 
-POST http://localhost:5000/api/balance/update
+POST http://localhost:8082/api/v1/balance/update
 Content-Type: application/json
 
 {
@@ -72,7 +72,7 @@ Content-Type: application/json
 🔹 Processar pagamento
 Envie um pagamento pela PaymentApi:
 
-POST http://localhost:5001/api/payments
+POST http://localhost:8080/api/v1/payments
 Content-Type: application/json
 
 {
@@ -82,10 +82,19 @@ Content-Type: application/json
   "Operation": "processing"
 }
 
+🔹 Confirmar pagamento
+Para confirmar pagamento:
+
+http://localhost:8080/api/v1/payment/confirm
+
+{
+  "paymentId": "69113707e520f31ae1cf0fb3"
+}
+
 🔹 Cancelar pagamento
 Para simular um cancelamento:
 
-POST http://localhost:5001/api/payments/cancel
+POST http://localhost:8080/api/v1/payments/cancel
 Content-Type: application/json
 
 {
@@ -96,7 +105,7 @@ Content-Type: application/json
 
 Consultar Saldo:
 
-GET http://localhost:5000/api/balance/acc123
+GET http://localhost:8082/api/v1/balance/acc123
 
 {
   "AccountId": "acc123",
