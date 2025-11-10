@@ -60,12 +60,13 @@ Fluxos de uso
 🔹 Criar usuário no BalanceApi
 Antes de processar pagamentos, crie um usuário com saldo inicial:
 
-POST http://localhost:5000/api/balance/create
+POST http://localhost:5000/api/balance/update
 Content-Type: application/json
 
 {
-  "AccountId": "acc123",
-  "InitialBalance": 500.00
+  "accountId": "acc-06",
+  "amount": 1000,
+  "operation": "credit"
 }
 
 🔹 Processar pagamento
