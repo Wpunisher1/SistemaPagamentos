@@ -13,7 +13,7 @@ Projeto distribuído para processamento de pagamentos de forma assíncrona, conf
 - MongoDB – persistência dos pagamentos  
 - Docker – infraestrutura portátil  
 - xUnit + Moq – testes unitários  
-- VS Code / Rider – IDEs recomendadas  
+- VS / VS Code / Rider – IDEs recomendadas  
 
 ---
 
