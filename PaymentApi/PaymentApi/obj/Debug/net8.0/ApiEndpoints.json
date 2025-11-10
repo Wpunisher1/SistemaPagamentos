@@ -1,0 +1,84 @@
+[
+  {
+    "ContainingType": "PaymentApi.Presentation.Endpoints.PaymentEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapPaymentEndpoints\u003Eb__0_0",
+    "RelativePath": "api/v1/payment",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "PaymentApi.Requests.PaymentRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PaymentApi.Presentation.Endpoints.PaymentEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapPaymentEndpoints\u003Eb__0_2",
+    "RelativePath": "api/v1/payment/cancel",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "PaymentApi.Requests.CancelRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PaymentApi.Presentation.Endpoints.PaymentEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapPaymentEndpoints\u003Eb__0_1",
+    "RelativePath": "api/v1/payment/confirm",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "PaymentApi.Requests.ConfirmRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PaymentApi.Presentation.Endpoints.PaymentEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapPaymentEndpoints\u003Eb__0_3",
+    "RelativePath": "health",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

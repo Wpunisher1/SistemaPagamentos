@@ -1,0 +1,62 @@
+[
+  {
+    "ContainingType": "BalanceApi.Presentation.Endpoints.BalanceEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapBalanceEndpoints\u003Eb__0_0",
+    "RelativePath": "api/v1/balance/{accountId}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BalanceApi.Presentation.Endpoints.BalanceEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapBalanceEndpoints\u003Eb__0_1",
+    "RelativePath": "api/v1/balance/update",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "BalanceUpdateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BalanceApi.Presentation.Endpoints.BalanceEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapBalanceEndpoints\u003Eb__0_2",
+    "RelativePath": "health",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

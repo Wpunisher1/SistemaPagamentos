@@ -1,0 +1,414 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{333B8339-9394-4387-B6DF-4D0C89641B6D}|CrossCutingTests\\CrossCutingTests.csproj|c:\\users\\opah\\desktop\\sistemapagamentos\\paymentworker\\crosscutingtests\\rabbitsettingstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{333B8339-9394-4387-B6DF-4D0C89641B6D}|CrossCutingTests\\CrossCutingTests.csproj|solutionrelative:crosscutingtests\\rabbitsettingstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AAE3EE-B83D-4D07-90C8-758E978CBCC2}|CrossCuting\\CrossCuting.csproj|c:\\users\\opah\\desktop\\sistemapagamentos\\paymentworker\\crosscuting\\config\\rabbitsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AAE3EE-B83D-4D07-90C8-758E978CBCC2}|CrossCuting\\CrossCuting.csproj|solutionrelative:crosscuting\\config\\rabbitsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{333B8339-9394-4387-B6DF-4D0C89641B6D}|CrossCutingTests\\CrossCutingTests.csproj|c:\\users\\opah\\desktop\\sistemapagamentos\\paymentworker\\crosscutingtests\\mongosettingstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{333B8339-9394-4387-B6DF-4D0C89641B6D}|CrossCutingTests\\CrossCutingTests.csproj|solutionrelative:crosscutingtests\\mongosettingstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AAE3EE-B83D-4D07-90C8-758E978CBCC2}|CrossCuting\\CrossCuting.csproj|c:\\users\\opah\\desktop\\sistemapagamentos\\paymentworker\\crosscuting\\config\\mongosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AAE3EE-B83D-4D07-90C8-758E978CBCC2}|CrossCuting\\CrossCuting.csproj|solutionrelative:crosscuting\\config\\mongosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA53B977-808A-46F5-9F80-85404BEEF0D1}|InfraTests\\InfraTests.csproj|c:\\users\\opah\\desktop\\sistemapagamentos\\paymentworker\\infratests\\paymentrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA53B977-808A-46F5-9F80-85404BEEF0D1}|InfraTests\\InfraTests.csproj|solutionrelative:infratests\\paymentrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFA23E7-46C9-40D3-889A-847FC5333984}|PaymentWorkerTests\\PaymentWorkerTests.csproj|c:\\users\\opah\\desktop\\sistemapagamentos\\paymentworker\\paymentworkertests\\programtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFA23E7-46C9-40D3-889A-847FC5333984}|PaymentWorkerTests\\PaymentWorkerTests.csproj|solutionrelative:paymentworkertests\\programtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE2EDB7-A231-4104-B1D0-C7678216120F}|PaymentWorker\\PaymentWorker.csproj|c:\\users\\opah\\desktop\\sistemapagamentos\\paymentworker\\paymentworker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE2EDB7-A231-4104-B1D0-C7678216120F}|PaymentWorker\\PaymentWorker.csproj|solutionrelative:paymentworker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{333B8339-9394-4387-B6DF-4D0C89641B6D}|CrossCutingTests\\CrossCutingTests.csproj|c:\\users\\opah\\desktop\\sistemapagamentos\\paymentworker\\crosscutingtests\\paymentmessagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{333B8339-9394-4387-B6DF-4D0C89641B6D}|CrossCutingTests\\CrossCutingTests.csproj|solutionrelative:crosscutingtests\\paymentmessagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AAE3EE-B83D-4D07-90C8-758E978CBCC2}|CrossCuting\\CrossCuting.csproj|c:\\users\\opah\\desktop\\sistemapagamentos\\paymentworker\\crosscuting\\dtos\\paymentmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AAE3EE-B83D-4D07-90C8-758E978CBCC2}|CrossCuting\\CrossCuting.csproj|solutionrelative:crosscuting\\dtos\\paymentmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{333B8339-9394-4387-B6DF-4D0C89641B6D}|CrossCutingTests\\CrossCutingTests.csproj|c:\\users\\opah\\desktop\\sistemapagamentos\\paymentworker\\crosscutingtests\\balanceclienttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{333B8339-9394-4387-B6DF-4D0C89641B6D}|CrossCutingTests\\CrossCutingTests.csproj|solutionrelative:crosscutingtests\\balanceclienttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AAE3EE-B83D-4D07-90C8-758E978CBCC2}|CrossCuting\\CrossCuting.csproj|c:\\users\\opah\\desktop\\sistemapagamentos\\paymentworker\\crosscuting\\integrations\\balanceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AAE3EE-B83D-4D07-90C8-758E978CBCC2}|CrossCuting\\CrossCuting.csproj|solutionrelative:crosscuting\\integrations\\balanceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{333B8339-9394-4387-B6DF-4D0C89641B6D}|CrossCutingTests\\CrossCutingTests.csproj|c:\\users\\opah\\desktop\\sistemapagamentos\\paymentworker\\crosscutingtests\\accountbalancedtotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{333B8339-9394-4387-B6DF-4D0C89641B6D}|CrossCutingTests\\CrossCutingTests.csproj|solutionrelative:crosscutingtests\\accountbalancedtotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AAE3EE-B83D-4D07-90C8-758E978CBCC2}|CrossCuting\\CrossCuting.csproj|c:\\users\\opah\\desktop\\sistemapagamentos\\paymentworker\\crosscuting\\dtos\\accountbalancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AAE3EE-B83D-4D07-90C8-758E978CBCC2}|CrossCuting\\CrossCuting.csproj|solutionrelative:crosscuting\\dtos\\accountbalancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AAE3EE-B83D-4D07-90C8-758E978CBCC2}|CrossCuting\\CrossCuting.csproj|c:\\users\\opah\\desktop\\sistemapagamentos\\paymentworker\\crosscuting\\dtos\\balanceupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AAE3EE-B83D-4D07-90C8-758E978CBCC2}|CrossCuting\\CrossCuting.csproj|solutionrelative:crosscuting\\dtos\\balanceupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AAE3EE-B83D-4D07-90C8-758E978CBCC2}|CrossCuting\\CrossCuting.csproj|c:\\users\\opah\\desktop\\sistemapagamentos\\paymentworker\\crosscuting\\integrations\\ibalanceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AAE3EE-B83D-4D07-90C8-758E978CBCC2}|CrossCuting\\CrossCuting.csproj|solutionrelative:crosscuting\\integrations\\ibalanceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA53B977-808A-46F5-9F80-85404BEEF0D1}|InfraTests\\InfraTests.csproj|c:\\users\\opah\\desktop\\sistemapagamentos\\paymentworker\\infratests\\rabbitconsumertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA53B977-808A-46F5-9F80-85404BEEF0D1}|InfraTests\\InfraTests.csproj|solutionrelative:infratests\\rabbitconsumertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEA5974-7517-4EE9-9720-5743A8BF77C6}|Infra\\Infra.csproj|c:\\users\\opah\\desktop\\sistemapagamentos\\paymentworker\\infra\\messaging\\rabbitconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BEA5974-7517-4EE9-9720-5743A8BF77C6}|Infra\\Infra.csproj|solutionrelative:infra\\messaging\\rabbitconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEA5974-7517-4EE9-9720-5743A8BF77C6}|Infra\\Infra.csproj|c:\\users\\opah\\desktop\\sistemapagamentos\\paymentworker\\infra\\data\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BEA5974-7517-4EE9-9720-5743A8BF77C6}|Infra\\Infra.csproj|solutionrelative:infra\\data\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA53B977-808A-46F5-9F80-85404BEEF0D1}|InfraTests\\InfraTests.csproj|c:\\users\\opah\\desktop\\sistemapagamentos\\paymentworker\\infratests\\mongocontexttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA53B977-808A-46F5-9F80-85404BEEF0D1}|InfraTests\\InfraTests.csproj|solutionrelative:infratests\\mongocontexttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEA5974-7517-4EE9-9720-5743A8BF77C6}|Infra\\Infra.csproj|c:\\users\\opah\\desktop\\sistemapagamentos\\paymentworker\\infra\\data\\mongocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BEA5974-7517-4EE9-9720-5743A8BF77C6}|Infra\\Infra.csproj|solutionrelative:infra\\data\\mongocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3811DF-D669-47A9-B07A-16081C9CE6FA}|DomainTests\\DomainTests.csproj|c:\\users\\opah\\desktop\\sistemapagamentos\\paymentworker\\domaintests\\paymentstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3811DF-D669-47A9-B07A-16081C9CE6FA}|DomainTests\\DomainTests.csproj|solutionrelative:domaintests\\paymentstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{507CB488-93A6-426E-9FC4-7E45AFC36C5F}|Domain\\Domain.csproj|c:\\users\\opah\\desktop\\sistemapagamentos\\paymentworker\\domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{507CB488-93A6-426E-9FC4-7E45AFC36C5F}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3811DF-D669-47A9-B07A-16081C9CE6FA}|DomainTests\\DomainTests.csproj|c:\\users\\opah\\desktop\\sistemapagamentos\\paymentworker\\domaintests\\paymentprocesshandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3811DF-D669-47A9-B07A-16081C9CE6FA}|DomainTests\\DomainTests.csproj|solutionrelative:domaintests\\paymentprocesshandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{507CB488-93A6-426E-9FC4-7E45AFC36C5F}|Domain\\Domain.csproj|c:\\users\\opah\\desktop\\sistemapagamentos\\paymentworker\\domain\\handlers\\paymentprocesshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{507CB488-93A6-426E-9FC4-7E45AFC36C5F}|Domain\\Domain.csproj|solutionrelative:domain\\handlers\\paymentprocesshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RabbitSettingsTests.cs",
+              "DocumentMoniker": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\CrossCutingTests\\RabbitSettingsTests.cs",
+              "RelativeDocumentMoniker": "CrossCutingTests\\RabbitSettingsTests.cs",
+              "ToolTip": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\CrossCutingTests\\RabbitSettingsTests.cs",
+              "RelativeToolTip": "CrossCutingTests\\RabbitSettingsTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA3wBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:48:35.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MongoSettingsTests.cs",
+              "DocumentMoniker": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\CrossCutingTests\\MongoSettingsTests.cs",
+              "RelativeDocumentMoniker": "CrossCutingTests\\MongoSettingsTests.cs",
+              "ToolTip": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\CrossCutingTests\\MongoSettingsTests.cs",
+              "RelativeToolTip": "CrossCutingTests\\MongoSettingsTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:48:10.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProgramTests.cs",
+              "DocumentMoniker": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\PaymentWorkerTests\\ProgramTests.cs",
+              "RelativeDocumentMoniker": "PaymentWorkerTests\\ProgramTests.cs",
+              "ToolTip": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\PaymentWorkerTests\\ProgramTests.cs",
+              "RelativeToolTip": "PaymentWorkerTests\\ProgramTests.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:32:24.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BalanceClient.cs",
+              "DocumentMoniker": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\CrossCuting\\Integrations\\BalanceClient.cs",
+              "RelativeDocumentMoniker": "CrossCuting\\Integrations\\BalanceClient.cs",
+              "ToolTip": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\CrossCuting\\Integrations\\BalanceClient.cs",
+              "RelativeToolTip": "CrossCuting\\Integrations\\BalanceClient.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:27:17.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MongoSettings.cs",
+              "DocumentMoniker": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\CrossCuting\\Config\\MongoSettings.cs",
+              "RelativeDocumentMoniker": "CrossCuting\\Config\\MongoSettings.cs",
+              "ToolTip": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\CrossCuting\\Config\\MongoSettings.cs",
+              "RelativeToolTip": "CrossCuting\\Config\\MongoSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:27:47.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RabbitSettings.cs",
+              "DocumentMoniker": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\CrossCuting\\Config\\RabbitSettings.cs",
+              "RelativeDocumentMoniker": "CrossCuting\\Config\\RabbitSettings.cs",
+              "ToolTip": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\CrossCuting\\Config\\RabbitSettings.cs",
+              "RelativeToolTip": "CrossCuting\\Config\\RabbitSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:27:46.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountBalanceDtoTests.cs",
+              "DocumentMoniker": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\CrossCutingTests\\AccountBalanceDtoTests.cs",
+              "RelativeDocumentMoniker": "CrossCutingTests\\AccountBalanceDtoTests.cs",
+              "ToolTip": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\CrossCutingTests\\AccountBalanceDtoTests.cs",
+              "RelativeToolTip": "CrossCutingTests\\AccountBalanceDtoTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:29:22.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentMessage.cs",
+              "DocumentMoniker": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\CrossCuting\\DTOs\\PaymentMessage.cs",
+              "RelativeDocumentMoniker": "CrossCuting\\DTOs\\PaymentMessage.cs",
+              "ToolTip": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\CrossCuting\\DTOs\\PaymentMessage.cs",
+              "RelativeToolTip": "CrossCuting\\DTOs\\PaymentMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:30:31.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountBalanceDto.cs",
+              "DocumentMoniker": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\CrossCuting\\DTOs\\AccountBalanceDto.cs",
+              "RelativeDocumentMoniker": "CrossCuting\\DTOs\\AccountBalanceDto.cs",
+              "ToolTip": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\CrossCuting\\DTOs\\AccountBalanceDto.cs",
+              "RelativeToolTip": "CrossCuting\\DTOs\\AccountBalanceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:27:15.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\InfraTests\\PaymentRepositoryTests.cs",
+              "RelativeDocumentMoniker": "InfraTests\\PaymentRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\InfraTests\\PaymentRepositoryTests.cs",
+              "RelativeToolTip": "InfraTests\\PaymentRepositoryTests.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:20:59.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\PaymentWorker\\Program.cs",
+              "RelativeDocumentMoniker": "PaymentWorker\\Program.cs",
+              "ToolTip": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\PaymentWorker\\Program.cs",
+              "RelativeToolTip": "PaymentWorker\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:32:27.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BalanceUpdateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\CrossCuting\\DTOs\\BalanceUpdateRequest.cs",
+              "RelativeDocumentMoniker": "CrossCuting\\DTOs\\BalanceUpdateRequest.cs",
+              "ToolTip": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\CrossCuting\\DTOs\\BalanceUpdateRequest.cs",
+              "RelativeToolTip": "CrossCuting\\DTOs\\BalanceUpdateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:27:11.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentMessageTests.cs",
+              "DocumentMoniker": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\CrossCutingTests\\PaymentMessageTests.cs",
+              "RelativeDocumentMoniker": "CrossCutingTests\\PaymentMessageTests.cs",
+              "ToolTip": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\CrossCutingTests\\PaymentMessageTests.cs",
+              "RelativeToolTip": "CrossCutingTests\\PaymentMessageTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:26:37.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BalanceClientTests.cs",
+              "DocumentMoniker": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\CrossCutingTests\\BalanceClientTests.cs",
+              "RelativeDocumentMoniker": "CrossCutingTests\\BalanceClientTests.cs",
+              "ToolTip": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\CrossCutingTests\\BalanceClientTests.cs",
+              "RelativeToolTip": "CrossCutingTests\\BalanceClientTests.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:27:37.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBalanceClient.cs",
+              "DocumentMoniker": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\CrossCuting\\Integrations\\IBalanceClient.cs",
+              "RelativeDocumentMoniker": "CrossCuting\\Integrations\\IBalanceClient.cs",
+              "ToolTip": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\CrossCuting\\Integrations\\IBalanceClient.cs",
+              "RelativeToolTip": "CrossCuting\\Integrations\\IBalanceClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:25:43.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RabbitConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\Infra\\Messaging\\RabbitConsumer.cs",
+              "RelativeDocumentMoniker": "Infra\\Messaging\\RabbitConsumer.cs",
+              "ToolTip": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\Infra\\Messaging\\RabbitConsumer.cs",
+              "RelativeToolTip": "Infra\\Messaging\\RabbitConsumer.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAgwKEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:24:07.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RabbitConsumerTests.cs",
+              "DocumentMoniker": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\InfraTests\\RabbitConsumerTests.cs",
+              "RelativeDocumentMoniker": "InfraTests\\RabbitConsumerTests.cs",
+              "ToolTip": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\InfraTests\\RabbitConsumerTests.cs",
+              "RelativeToolTip": "InfraTests\\RabbitConsumerTests.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:24:04.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\Infra\\Data\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "Infra\\Data\\PaymentRepository.cs",
+              "ToolTip": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\Infra\\Data\\PaymentRepository.cs",
+              "RelativeToolTip": "Infra\\Data\\PaymentRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:21:05.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MongoContextTests.cs",
+              "DocumentMoniker": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\InfraTests\\MongoContextTests.cs",
+              "RelativeDocumentMoniker": "InfraTests\\MongoContextTests.cs",
+              "ToolTip": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\InfraTests\\MongoContextTests.cs",
+              "RelativeToolTip": "InfraTests\\MongoContextTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:20:17.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MongoContext.cs",
+              "DocumentMoniker": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\Infra\\Data\\MongoContext.cs",
+              "RelativeDocumentMoniker": "Infra\\Data\\MongoContext.cs",
+              "ToolTip": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\Infra\\Data\\MongoContext.cs",
+              "RelativeToolTip": "Infra\\Data\\MongoContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:19:32.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PaymentsTests.cs",
+              "DocumentMoniker": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\DomainTests\\PaymentsTests.cs",
+              "RelativeDocumentMoniker": "DomainTests\\PaymentsTests.cs",
+              "ToolTip": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\DomainTests\\PaymentsTests.cs",
+              "RelativeToolTip": "DomainTests\\PaymentsTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:18:58.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\Domain\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Payment.cs",
+              "ToolTip": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\Domain\\Entities\\Payment.cs",
+              "RelativeToolTip": "Domain\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:18:17.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PaymentProcessHandler.cs",
+              "DocumentMoniker": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\Domain\\Handlers\\PaymentProcessHandler.cs",
+              "RelativeDocumentMoniker": "Domain\\Handlers\\PaymentProcessHandler.cs",
+              "ToolTip": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\Domain\\Handlers\\PaymentProcessHandler.cs",
+              "RelativeToolTip": "Domain\\Handlers\\PaymentProcessHandler.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:15:46.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PaymentProcessHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\DomainTests\\PaymentProcessHandlerTests.cs",
+              "RelativeDocumentMoniker": "DomainTests\\PaymentProcessHandlerTests.cs",
+              "ToolTip": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentWorker\\DomainTests\\PaymentProcessHandlerTests.cs",
+              "RelativeToolTip": "DomainTests\\PaymentProcessHandlerTests.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:15:37.661Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

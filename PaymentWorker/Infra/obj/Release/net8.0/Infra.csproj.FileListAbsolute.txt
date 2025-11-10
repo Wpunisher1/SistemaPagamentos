@@ -1,0 +1,17 @@
+C:\Users\opah\Desktop\SistemaPagamentos\PaymentWorker\PaymentWorker\Infra\bin\Release\net8.0\Infra.deps.json
+C:\Users\opah\Desktop\SistemaPagamentos\PaymentWorker\PaymentWorker\Infra\bin\Release\net8.0\Infra.dll
+C:\Users\opah\Desktop\SistemaPagamentos\PaymentWorker\PaymentWorker\Infra\bin\Release\net8.0\Infra.pdb
+C:\Users\opah\Desktop\SistemaPagamentos\PaymentWorker\PaymentWorker\Infra\bin\Release\net8.0\CrossCuting.dll
+C:\Users\opah\Desktop\SistemaPagamentos\PaymentWorker\PaymentWorker\Infra\bin\Release\net8.0\Domain.dll
+C:\Users\opah\Desktop\SistemaPagamentos\PaymentWorker\PaymentWorker\Infra\bin\Release\net8.0\CrossCuting.pdb
+C:\Users\opah\Desktop\SistemaPagamentos\PaymentWorker\PaymentWorker\Infra\bin\Release\net8.0\Domain.pdb
+C:\Users\opah\Desktop\SistemaPagamentos\PaymentWorker\PaymentWorker\Infra\obj\Release\net8.0\Infra.csproj.AssemblyReference.cache
+C:\Users\opah\Desktop\SistemaPagamentos\PaymentWorker\PaymentWorker\Infra\obj\Release\net8.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opah\Desktop\SistemaPagamentos\PaymentWorker\PaymentWorker\Infra\obj\Release\net8.0\Infra.AssemblyInfoInputs.cache
+C:\Users\opah\Desktop\SistemaPagamentos\PaymentWorker\PaymentWorker\Infra\obj\Release\net8.0\Infra.AssemblyInfo.cs
+C:\Users\opah\Desktop\SistemaPagamentos\PaymentWorker\PaymentWorker\Infra\obj\Release\net8.0\Infra.csproj.CoreCompileInputs.cache
+C:\Users\opah\Desktop\SistemaPagamentos\PaymentWorker\PaymentWorker\Infra\obj\Release\net8.0\Infra.csproj.Up2Date
+C:\Users\opah\Desktop\SistemaPagamentos\PaymentWorker\PaymentWorker\Infra\obj\Release\net8.0\Infra.dll
+C:\Users\opah\Desktop\SistemaPagamentos\PaymentWorker\PaymentWorker\Infra\obj\Release\net8.0\refint\Infra.dll
+C:\Users\opah\Desktop\SistemaPagamentos\PaymentWorker\PaymentWorker\Infra\obj\Release\net8.0\Infra.pdb
+C:\Users\opah\Desktop\SistemaPagamentos\PaymentWorker\PaymentWorker\Infra\obj\Release\net8.0\ref\Infra.dll

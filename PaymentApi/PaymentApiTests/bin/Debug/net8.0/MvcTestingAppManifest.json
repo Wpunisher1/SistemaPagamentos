@@ -1,0 +1,9 @@
+{
+  "CrossCuting, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentApi\\CrossCuting",
+  "Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentApi\\Domain",
+  "Infra, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentApi\\Infra",
+  "PaymentApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentApi\\PaymentApi",
+  "PaymentCrossCutingTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentApi\\PaymentCrossCutingTests",
+  "PaymentDomainTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentApi\\PaymentDomainTests",
+  "PaymentInfraTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentApi\\PaymentInfraTests"
+}

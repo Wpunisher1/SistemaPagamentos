@@ -1,0 +1,15 @@
+# Build
+bin/
+obj/
+
+# User-specific
+*.user
+*.suo
+*.log
+
+# Secrets
+.env
+
+# IDEs
+.vscode/
+.idea/

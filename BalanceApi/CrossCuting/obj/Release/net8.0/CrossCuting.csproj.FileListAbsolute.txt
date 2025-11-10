@@ -1,0 +1,11 @@
+C:\Users\opah\Desktop\SistemaPagamentos\BalanceApi\BalanceApi\CrossCuting\bin\Release\net8.0\CrossCuting.deps.json
+C:\Users\opah\Desktop\SistemaPagamentos\BalanceApi\BalanceApi\CrossCuting\bin\Release\net8.0\CrossCuting.dll
+C:\Users\opah\Desktop\SistemaPagamentos\BalanceApi\BalanceApi\CrossCuting\bin\Release\net8.0\CrossCuting.pdb
+C:\Users\opah\Desktop\SistemaPagamentos\BalanceApi\BalanceApi\CrossCuting\obj\Release\net8.0\CrossCuting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opah\Desktop\SistemaPagamentos\BalanceApi\BalanceApi\CrossCuting\obj\Release\net8.0\CrossCuting.AssemblyInfoInputs.cache
+C:\Users\opah\Desktop\SistemaPagamentos\BalanceApi\BalanceApi\CrossCuting\obj\Release\net8.0\CrossCuting.AssemblyInfo.cs
+C:\Users\opah\Desktop\SistemaPagamentos\BalanceApi\BalanceApi\CrossCuting\obj\Release\net8.0\CrossCuting.csproj.CoreCompileInputs.cache
+C:\Users\opah\Desktop\SistemaPagamentos\BalanceApi\BalanceApi\CrossCuting\obj\Release\net8.0\CrossCuting.dll
+C:\Users\opah\Desktop\SistemaPagamentos\BalanceApi\BalanceApi\CrossCuting\obj\Release\net8.0\refint\CrossCuting.dll
+C:\Users\opah\Desktop\SistemaPagamentos\BalanceApi\BalanceApi\CrossCuting\obj\Release\net8.0\CrossCuting.pdb
+C:\Users\opah\Desktop\SistemaPagamentos\BalanceApi\BalanceApi\CrossCuting\obj\Release\net8.0\ref\CrossCuting.dll

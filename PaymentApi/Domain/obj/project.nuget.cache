@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Swlpx0VAFo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\opah\\Desktop\\SistemaPagamentos\\PaymentApi\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\opah\\.nuget\\packages\\mongodb.bson\\2.19.1\\mongodb.bson.2.19.1.nupkg.sha512",
+    "C:\\Users\\opah\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
