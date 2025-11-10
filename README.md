@@ -2,15 +2,6 @@
 
 Projeto distribuído para processamento de pagamentos de forma assíncrona, confiável e escalável. Utiliza mensageria com RabbitMQ, persistência com MongoDB e comunicação entre serviços via HTTP.
 
----
-
-## 🧩 Estrutura do projeto
-SistemaPagamentos/ ├── PaymentApi/
-# API que publica mensagens de pagamento ├── PaymentWorker/
-# Worker que consome mensagens e processa pagamentos ├── BalanceApi/
-# API que simula atualização de saldo ├── docker-compose.yml  
-# (opcional) para orquestrar serviços ├── README.md           
-# documentação do projeto
 
 
 ---
